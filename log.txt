@@ -1,3 +1,40 @@
+commit 5f8b646def31493da9ca0f5fca0b1ddbeebe668c
+Author: Oisin-Rooney <oisinrooney36@gmail.com>
+Date:   Wed Apr 3 20:59:03 2019 +0100
+
+    Adding the website and the finishing touches
+
+commit b71f232a97ce3f3c81810d84e45a84d9cc2f5258
+Author: Oisin-Rooney <oisinrooney36@gmail.com>
+Date:   Wed Apr 3 20:26:29 2019 +0100
+
+    Adding Morsecode
+
+commit dee6b71d9a27fbb8c9bccb2140e7e12e5064beea
+Merge: ea6245b 752bf65
+Author: Oisin-Rooney <oisinrooney36@gmail.com>
+Date:   Wed Apr 3 19:14:26 2019 +0100
+
+    Merge branch 'master' of https://github.com/Oisin-Rooney/Python-Practical
+
+commit ea6245bb2a115e8a57850f46c14efcf1bf59b72a
+Author: Oisin-Rooney <oisinrooney36@gmail.com>
+Date:   Wed Apr 3 19:13:03 2019 +0100
+
+    Adding the fourth button to git
+
+commit 752bf651ae5a9846e9c3214174611440753d9ad1
+Author: Oisin-Rooney <47150927+Oisin-Rooney@users.noreply.github.com>
+Date:   Wed Apr 3 17:25:24 2019 +0100
+
+    Spelling correction
+
+commit c07b46f5eaa8f7a9c85a225d692c0d579787f974
+Author: Oisin-Rooney <oisinrooney36@gmail.com>
+Date:   Wed Apr 3 11:41:59 2019 +0100
+
+    Creating my log file
+
 commit 135b8010ddd9562873ca68f3ad53b628301f0309
 Merge: 63f987f 5052a0b
 Author: Oisin-Rooney <oisinrooney36@gmail.com>
