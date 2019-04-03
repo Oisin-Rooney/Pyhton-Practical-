@@ -1,0 +1,62 @@
+body{
+	background-color:lightgreen;
+}
+
+h1,h2,h3{
+	font-family:Segoe Print, Calibri, Bradley Hand ITC;
+	text-align:center;
+	color:white;
+	background-color:black;
+}
+
+p,ul{
+	color:black;
+}
+
+a:visited {
+	color:red;
+	
+}
+
+a:hover{
+	color:green;
+	
+}
+p{
+	font-size:125%;
+	font-family:Bradley Hand ITC, Calibri;
+	text-align:center;
+}
+.MyName{
+	font-family:Segoe Print, Calibri;
+	text-align:center;
+	color:white;
+	background-color:black;
+}
+
+#MyPhoto{
+	border-radius:20%;
+}
+p em{
+	font-style: italic;
+	font-weight:bold;
+}
+blockquote{
+	text-align:center;
+}
+table{
+	border: dashed darkgreen 2px;
+	text-align:center;
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+tr, td{
+	font-family:Calibri;
+}
+caption{
+	caption-side:bottom;
+	text-align:left;
+}
+	
+	
