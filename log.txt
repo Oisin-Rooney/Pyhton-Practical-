@@ -1,3 +1,49 @@
+commit c1ac919575c83c7046bb95b7b264db4a8f88c65f
+Merge: 9784117 e7bc8c5
+Author: Oisin-Rooney <oisinrooney36@gmail.com>
+Date:   Wed Apr 3 22:33:21 2019 +0100
+
+    Merge branch 'master' of https://github.com/Oisin-Rooney/Python-Practical
+
+commit 97841175f26a64f88c652b65e2e43d29e4e70672
+Author: Oisin-Rooney <oisinrooney36@gmail.com>
+Date:   Wed Apr 3 22:30:58 2019 +0100
+
+    added the pyhton things from that one book yoke
+
+commit e7bc8c5f052545c539861798cc2e9bd650bd14e3
+Author: Oisin-Rooney <47150927+Oisin-Rooney@users.noreply.github.com>
+Date:   Wed Apr 3 21:49:23 2019 +0100
+
+    Fixing
+
+commit 3d26369c05eeb88eb9ce6012945c55b7a7995baf
+Merge: e0decc4 831152e
+Author: ladi_show <oladipupojohn@gmail.com>
+Date:   Wed Apr 3 21:17:13 2019 +0100
+
+    Merge branch 'master' of https://github.com/Oisin-Rooney/Python-Practical
+    
+    commit
+
+commit e0decc447a8a8f33662b44d5a3f9c389b51ec12d
+Author: ladi_show <oladipupojohn@gmail.com>
+Date:   Wed Apr 3 21:15:27 2019 +0100
+
+    commit all
+
+commit 831152eef1b8cd708bfecd2de0f3c62f81324226
+Author: Oisin-Rooney <47150927+Oisin-Rooney@users.noreply.github.com>
+Date:   Wed Apr 3 21:15:13 2019 +0100
+
+    Fixing the measurements of the images
+
+commit 0213d8aee96aaad67ed6862f4f650d1b1e72978d
+Author: Oisin-Rooney <oisinrooney36@gmail.com>
+Date:   Wed Apr 3 21:05:55 2019 +0100
+
+    Adding the final log file
+
 commit 5f8b646def31493da9ca0f5fca0b1ddbeebe668c
 Author: Oisin-Rooney <oisinrooney36@gmail.com>
 Date:   Wed Apr 3 20:59:03 2019 +0100
